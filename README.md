@@ -7,4 +7,5 @@ Projeto desenvolvido no bootcamp HTML Web Developer da DIO (Digital Innovation O
 
 
 ### Screenshot in Mobile (max. width = 768px)
+![mobile](https://user-images.githubusercontent.com/63574213/135343943-52c8b7c9-3b1d-434b-9b3a-6eb3801262db.png)
 
